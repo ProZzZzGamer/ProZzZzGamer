@@ -6,7 +6,6 @@ My name is Amin, and I'm a Java developer from Bosnia.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProZzZzGamer&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
 Languages and Tools:
 
 <a href=https://www.jetbrains.com/toolbox-app>
