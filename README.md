@@ -6,7 +6,7 @@ My name is Amin, and I'm a Java developer from Bosnia.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProZzZzGamer&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Languages and Tools:
+Software I use:
 
 <a href=https://mxlinux.org>
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/MX_Linux_logo.svg/1130px-MX_Linux_logo.svg.png width=50px height=50px>
